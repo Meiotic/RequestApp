@@ -58,7 +58,7 @@ export default class MainWrapper extends React.Component {
                     </div>
                 ) :
                 (
-                    <InvalidWeb3  />
+                    <InvalidWeb3 />
                 )}
             </div>
         )
