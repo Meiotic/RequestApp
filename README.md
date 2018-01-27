@@ -3,11 +3,13 @@
 Will provide another way for users to interact with the Request Network.
 
 Will provide views to show: 
-Current ETH/USD Balance
-# of Active requests
-# of Completed requets
-Track money in vs money out
-Breakdown all requests
-Create new requests
-Update new requests
-Cancel new requests
+<ul>
+  <li>Current ETH/USD Balance</li>
+  <li>Number of Active requests</li>
+  <li>Number of Completed requets</li>
+  <li>Track money in vs money out</li>
+  <li>Breakdown all requests</li>
+  <li>Create new requests</li>
+  <li>Update new requests</li>
+  <li>Cancel new requests</li>
+</ul>
