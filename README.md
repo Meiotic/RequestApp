@@ -13,3 +13,7 @@ Will provide views to show:
   <li>Update new requests</li>
   <li>Cancel new requests</li>
 </ul>
+
+#Project Update: 1/26
+
+![alt text](https://i.imgur.com/42dyjXr.png)
