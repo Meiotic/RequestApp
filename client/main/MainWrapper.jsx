@@ -23,7 +23,7 @@ export default class MainWrapper extends React.Component {
         //Make sure client has a valid web3 client
         const connected = (typeof web3 !== "undefined") ? true : false
         this.setState({connected: connected});
-        
+
         var _app = this;
 
         if (connected) {
@@ -58,7 +58,7 @@ export default class MainWrapper extends React.Component {
                     </div>
                 ) :
                 (
-                    <InvalidWeb3 />
+                    <InvalidWeb3  />
                 )}
             </div>
         )
