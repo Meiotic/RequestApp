@@ -1,0 +1,6 @@
+.panel-default > .panel-heading {
+    color: white;
+    background-color: #332A2A;
+    border-color: #ddd;
+    border-bottom: 1px black;
+}
